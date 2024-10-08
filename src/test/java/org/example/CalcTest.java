@@ -13,7 +13,7 @@ public class CalcTest {
 
     @Test
     void testSubtraction() {
-        // 这个测试应该失败，假设 subtract 方法尚未正确实现
+        // 这个测试现在应该通过
         assertEquals(2, c.subtract(4, 2));
     }
 }
